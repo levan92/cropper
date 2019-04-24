@@ -9,4 +9,4 @@ python3 crop.py [path to img]
 * Editting box is supported (both adjustment & moving)
 * Spacebar to confirm and quit
 * 'c' to cancel and quit
-By default, output image will be saved at the original location with the orignal name appended with "_crop"
+* By default, output image will be saved at the original location with the orignal name appended with "_crop"
